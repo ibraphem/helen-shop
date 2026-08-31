@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Cormorant_Garamond, Outfit } from "next/font/google";
+import Script from "next/script";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import "./globals.css";
@@ -34,6 +35,12 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <SiteHeader />
         <main className="flex-1">{children}</main>
         <SiteFooter />
+        <Script
+          src="https://widget.zorachat.ai/zora-widget/universalWidget.js"
+          strategy="lazyOnload"
+          data-key="zc_live_RK1YTD2Y0dui2xljHOvcbdm"
+          data-api-base="https://api.zorachat.ai"
+        />
       </body>
     </html>
   );
