@@ -38,7 +38,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <Script
           src="https://widget.zorachat.ai/zora-widget/universalWidget.js"
           strategy="lazyOnload"
-          data-key="zc_live_RK1YTD2Y0dui2xljHOvcbdm"
+          data-key="zc_live_4defd683f28446eea6cd1abf"
           data-api-base="https://api.zorachat.ai"
         />
       </body>
