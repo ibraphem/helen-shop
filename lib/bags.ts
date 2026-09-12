@@ -95,9 +95,9 @@ export function getRelatedBags(bag: Bag, limit = 3): Bag[] {
 }
 
 export function formatPrice(price: number): string {
-  return new Intl.NumberFormat("en-US", {
+  return new Intl.NumberFormat("en-NG", {
     style: "currency",
-    currency: "USD",
+    currency: "NGN",
     maximumFractionDigits: 0,
   }).format(price);
 }

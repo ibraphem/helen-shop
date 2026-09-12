@@ -23,7 +23,7 @@ const practices = [
   },
   {
     title: "Color with a reason",
-    body: "Black for the city. Cognac because it ages in public. Sage and sand for daylight. Crimson and bordeaux when a bag should be the loudest thing in the room. We dye in small lots so the color belongs to the hide, not a print on top of it.",
+    body: "Black for the city. Brown because it ages in public. Green and beige for daylight. Red and wine when a bag should be the loudest thing in the room. We dye in small lots so the color belongs to the hide, not a print on top of it.",
   },
 ];
 
@@ -51,7 +51,7 @@ export default function AboutPage() {
         <div className="relative aspect-[4/5] overflow-hidden bg-[#efe8df]">
           <Image
             src="/bags/espresso-satchel.jpg"
-            alt="Espresso leather satchel"
+            alt="Dark brown leather satchel bag"
             fill
             sizes="(min-width: 1024px) 50vw, 100vw"
             className="object-cover"

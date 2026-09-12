@@ -44,7 +44,7 @@ export default function Home() {
           <div className="relative aspect-[4/5] overflow-hidden bg-[#efe8df] lg:aspect-[5/6]">
             <Image
               src="/bags/ivory-quilted-shoulder.jpg"
-              alt="Ivory Quilted Shoulder bag"
+              alt="Cream quilted shoulder bag"
               fill
               priority
               sizes="(min-width: 1024px) 50vw, 100vw"
@@ -105,8 +105,8 @@ export default function Home() {
               Bags we keep on the front table
             </h2>
             <p className="mt-4 text-sm leading-6 text-muted">
-              A mix of colors and silhouettes — black for the city, sage for
-              walking, crimson when the day needs a pulse.
+              A mix of colors and silhouettes — black for the city, green for
+              walking, red when the day needs a pulse.
             </p>
           </div>
           <div className="mt-12">
@@ -119,7 +119,7 @@ export default function Home() {
         <div className="relative aspect-[4/5] overflow-hidden bg-[#efe8df]">
           <Image
             src="/bags/cognac-work-tote.jpg"
-            alt="Cognac leather work tote"
+            alt="Brown leather work tote bag"
             fill
             sizes="(min-width: 1024px) 50vw, 100vw"
             className="object-cover"
