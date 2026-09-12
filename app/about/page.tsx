@@ -5,7 +5,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "How Helen Shop chooses leather, stitches bags, and inspects every piece twice.",
+    "How Delight Store chooses leather, stitches bags, and inspects every piece twice.",
 };
 
 const practices = [
@@ -15,7 +15,7 @@ const practices = [
   },
   {
     title: "Stitched once, properly",
-    body: "Helen’s rule is simple: a bag is not a draft. Seams are locked, edges are painted in thin coats, and hardware is seated so it will not rattle after a year of keys. We would rather make twelve bags well than forty bags quickly.",
+    body: "The rule is simple: a bag is not a draft. Seams are locked, edges are painted in thin coats, and hardware is seated so it will not rattle after a year of keys. We would rather make twelve bags well than forty bags quickly.",
   },
   {
     title: "Inspected twice",
@@ -36,13 +36,12 @@ export default function AboutPage() {
             About us
           </p>
           <h1 className="mt-4 max-w-3xl font-serif text-5xl leading-[1.08] tracking-tight sm:text-6xl">
-            Helen Shop is a bag atelier with a short list and a long memory.
+            Delight Store is a bag atelier with a short list and a long memory.
           </h1>
           <p className="mt-6 max-w-2xl text-base leading-7 text-muted">
-            Founded by Helen Adeyemi after a decade in leather restoration, the
-            shop exists to sell bags that survive real use. We are not a
-            marketplace. We are a room, a cutting table, and a window that
-            faces the street.
+            Founded after a decade in leather restoration, the shop exists to
+            sell bags that survive real use. We are not a marketplace. We are a
+            room, a cutting table, and a window that faces the street.
           </p>
         </div>
       </section>
@@ -62,11 +61,10 @@ export default function AboutPage() {
             Why quality, for us, is a habit.
           </h2>
           <p className="mt-5 text-base leading-7 text-muted">
-            Helen spent years repairing bags that had failed at the hinge, the
-            strap, or the dye. The shop is the answer to those repairs: fewer
-            pieces, heavier thread, hardware that is meant to be opened every
-            day. A Helen Shop bag is priced for the work inside it, not for a
-            logo on the flap.
+            Years of repairing bags that had failed at the hinge, the strap, or
+            the dye shaped the shop: fewer pieces, heavier thread, hardware that
+            is meant to be opened every day. A Delight Store bag is priced for
+            the work inside it, not for a logo on the flap.
           </p>
           <p className="mt-4 text-base leading-7 text-muted">
             We do not take payment online. You come in, you try the strap, you
@@ -99,8 +97,7 @@ export default function AboutPage() {
           <p className="mt-4 text-base leading-7 text-muted">
             18 Atelier Lane, Tuesday to Saturday, eleven until six. Bring the
             bag you already own if you want an honest opinion about whether it
-            can be restored — Helen still keeps a small repair bench in the
-            back.
+            can be restored — we still keep a small repair bench in the back.
           </p>
           <Link
             href="/shop"

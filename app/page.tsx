@@ -16,7 +16,7 @@ export default function Home() {
         <div className="mx-auto grid max-w-6xl items-center gap-10 px-5 py-16 sm:px-8 lg:grid-cols-2 lg:gap-16 lg:py-20">
           <div>
             <p className="text-[0.7rem] tracking-[0.28em] uppercase text-accent">
-              Helen Shop
+              Delight Store
             </p>
             <h1 className="mt-4 max-w-xl font-serif text-5xl leading-[1.05] tracking-tight sm:text-6xl">
               Bags with a life of their own.
@@ -133,7 +133,7 @@ export default function Home() {
             A bag should outlast the season it was bought in.
           </h2>
           <p className="mt-5 text-base leading-7 text-muted">
-            Helen selects leather for how it will look in two years, not two
+            We select leather for how it will look in two years, not two
             weeks. Edges are painted by hand. Hardware is weight-tested.
             Nothing leaves the atelier until a second pair of eyes has opened
             it, closed it, and worn the strap.

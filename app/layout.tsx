@@ -18,11 +18,11 @@ const outfit = Outfit({
 
 export const metadata: Metadata = {
   title: {
-    default: "Helen Shop",
-    template: "%s · Helen Shop",
+    default: "Delight Store",
+    template: "%s · Delight Store",
   },
   description:
-    "Helen Shop sells quality bags in considered colors. Inspected twice, made to last, reserved in the atelier.",
+    "Delight Store sells quality bags in considered colors. Inspected twice, made to last, reserved in the atelier.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

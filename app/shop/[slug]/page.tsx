@@ -103,7 +103,7 @@ export default async function BagDetailPage({ params }: Props) {
           <div className="mt-10 border border-border bg-card p-6">
             <p className="font-serif text-xl">Available in the atelier</p>
             <p className="mt-2 text-sm leading-6 text-muted">
-              Helen Shop does not take payment online. Visit us Tuesday through
+              Delight Store does not take payment online. Visit us Tuesday through
               Saturday to try the bag on the shoulder and take it home the
               same day.
             </p>

@@ -19,7 +19,7 @@ export function SiteHeader() {
           href="/"
           className="font-serif text-2xl tracking-tight text-foreground sm:text-[1.7rem]"
         >
-          Helen Shop
+          Delight Store
         </Link>
 
         <nav className="hidden items-center gap-8 text-[0.8rem] tracking-[0.18em] uppercase text-foreground/80 sm:flex">

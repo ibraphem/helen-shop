@@ -5,7 +5,7 @@ export function SiteFooter() {
     <footer className="mt-auto border-t border-border bg-card">
       <div className="mx-auto grid max-w-6xl gap-10 px-5 py-14 sm:grid-cols-3 sm:px-8">
         <div>
-          <p className="font-serif text-2xl">Helen Shop</p>
+          <p className="font-serif text-2xl">Delight Store</p>
           <p className="mt-3 max-w-xs text-sm leading-6 text-muted">
             Quality bags, inspected twice, sold in person. A small atelier for
             leather that is meant to last.
@@ -20,7 +20,7 @@ export function SiteFooter() {
             <br />
             Tuesday–Saturday, 11–6
             <br />
-            hello@helenshop.example
+            hello@delightstore.example
           </p>
         </div>
         <div>
@@ -43,7 +43,7 @@ export function SiteFooter() {
       </div>
       <div className="border-t border-border">
         <p className="mx-auto max-w-6xl px-5 py-4 text-xs tracking-wide text-muted sm:px-8">
-          Helen Shop — bags made to be used, not merely displayed.
+          Delight Store — bags made to be used, not merely displayed.
         </p>
       </div>
     </footer>

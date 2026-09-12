@@ -11,7 +11,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Shop",
-  description: "The full Helen Shop collection of leather and canvas bags.",
+  description: "The full Delight Store collection of leather and canvas bags.",
 };
 
 function isCategory(value: string): value is Category {
